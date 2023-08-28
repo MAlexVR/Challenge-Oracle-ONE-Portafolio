@@ -1,0 +1,35 @@
+footer {
+  background-color: #1d3a6b;
+  text-align: center;
+  padding: 40px;
+  margin-top: auto;
+}
+
+.copyright {
+  color: #ffffff;
+  font-size: 13px;
+  margin: 20px;
+}
+
+.redes {
+  display: flex;
+  justify-content: center;
+}
+
+.linkedin {
+  margin: 5px;
+  width: 48px;
+  height: 48px;
+  background-image: url(/Imagenes/linkedin.png);
+  background-position: center;
+  background-repeat: no-repeat;
+}
+
+.github {
+  margin: 5px;
+  width: 48px;
+  height: 48px;
+  background-image: url(/Imagenes/github.png);
+  background-position: center;
+  background-repeat: no-repeat;
+}
