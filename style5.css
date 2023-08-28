@@ -20,7 +20,7 @@ footer {
   margin: 5px;
   width: 48px;
   height: 48px;
-  background-image: url(/Imagenes/linkedin.png);
+  background-image: url(Imagenes/linkedin.png);
   background-position: center;
   background-repeat: no-repeat;
 }
@@ -29,7 +29,7 @@ footer {
   margin: 5px;
   width: 48px;
   height: 48px;
-  background-image: url(/Imagenes/github.png);
+  background-image: url(Imagenes/github.png);
   background-position: center;
   background-repeat: no-repeat;
 }
